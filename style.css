@@ -26,9 +26,17 @@
 .bgimage {
   height: 100vh;
   max-height: 900px;
-  background: url("images/bgImage.webp");
+  background: url("images/background.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
+}
+/* hero background image filter */
+.bgimage::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 /* text css above hero image*/
 .hero_title {
