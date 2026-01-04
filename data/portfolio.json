@@ -1,20 +1,20 @@
 [
   {
-    "image": "image1.webp",
-    "title": "Booki",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "link": "#"
-  },
-  {
-    "image": "image2.webp",
-    "title": "Mon Vieux grimoire",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "link": "#"
-  },
-  {
-    "image": "image3.webp",
+    "image": "kasa.webp",
     "title": "Kasa",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "text": "Création d'une application web de location immobilière avec React.",
+    "link": "https://github.com/Cyril-GA/kasa_app_react_gernezauboiron_cyril"
+  },
+  {
+    "image": "ecoBlissBath1.webp",
+    "title": "Eco Bliss Bath",
+    "text": "Automatisation de tests avec Cypress pour un site de e-commerce.",
+    "link": "https://github.com/Cyril-GA/Cypress-Test-Automation---Eco-Bliss-Bath"
+  },
+  {
+    "image": "tomsen.webp",
+    "title": "TOMSEN",
+    "text": "Concéption et plannification d'une stratégie de test.",
     "link": "#"
   }
 ]
