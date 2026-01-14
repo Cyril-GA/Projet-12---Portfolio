@@ -103,6 +103,9 @@
 #portfolio p {
   text-align: center;
 }
+.portfolioContent.card {
+  min-height: 341px;
+}
 
 /* contact */
 .contactColumn {
